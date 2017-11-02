@@ -1,0 +1,3 @@
+main:
+  jwt_secret: 'secret'
+

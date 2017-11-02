@@ -1,0 +1,2 @@
+python-dateutil==1.5
+pyjwt=1.5.3

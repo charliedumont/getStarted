@@ -1,0 +1,11 @@
+{
+  "name": "jess-echo-test",
+  "description": "Jess's echo test",
+  "version": "0.0.1",
+  "homepage": "",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+  }
+}
+

@@ -6,7 +6,7 @@
   "scripts": {
     "postinstall": "bower install",
     "prestart": "npm install",
-    "start": "dev_appserver.py --port=8080 --admin_port=9010 app.yaml",
+    "start": "dev_appserver.py --port=8080 --admin_port=8010 app.yaml",
     "test": "karma start karma.conf.js",
     "test-single-run": "karma start karma.conf.js --single-run"
   }
